@@ -1,3 +1,5 @@
-// run `node index.js` in the terminal
-
-console.log(`Hello Node.js );
+function live (o,z){
+returno o+z ;
+};
+live(9,9);
+console.log(live)
